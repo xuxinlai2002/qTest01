@@ -1,0 +1,47 @@
+{
+    "config": {
+        "chainId": 10,
+        "homesteadBlock": 0,
+        "eip150Block": 0,
+        "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "byzantiumBlock": 0,
+        "constantinopleBlock": 0,
+        "istanbul": {
+            "epoch": 30000,
+            "policy": 0,
+            "ceil2Nby3Block": 0
+        },
+        "txnSizeLimit": 64,
+        "maxCodeSize": 0,
+        "isQuorum": true
+    },
+    "nonce": "0x0",
+    "timestamp": "0x5f44976d",
+    "extraData": "0x0000000000000000000000000000000000000000000000000000000000000000f8aff86994281af8c345380fa4efd5a8d16217bd00dab0e886947e464115a372e1bea50c26feec2060bbc69ceb9b9450a1f12c0b0a9aee64348823c9cf0348c36fb51c94bc5e9b2858ce3235d5d533c27c3b94efd63b3dec942b8b165d32b6c6e6387470d533ae0ea40dc4d78bb8410000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000c0",
+    "gasLimit": "0xe0000000",
+    "difficulty": "0x1",
+    "mixHash": "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "alloc": {
+        "3ef9cc716b7c7b781cb35084b953fde8f65d25e6": {
+            "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+        },
+        "b0eb773d53c2c47ad8c7b4dded49184bfc4a1a2d": {
+            "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+        },
+        "6f5ec2ee36b4f2c3e9552d751fc912d03ef3af14": {
+            "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+        },
+        "fcdc85712808e1ab17a320dab72eb397124f0e44": {
+            "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+        },
+        "cca199a7de7b73c58e8a3ae2ee60c2eadba50fdc": {
+            "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+        }
+    },
+    "number": "0x0",
+    "gasUsed": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000"
+}
